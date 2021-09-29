@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\bin\Debug\Calculadora Evandro Orlandini.exe.config
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\bin\Debug\Calculadora Evandro Orlandini.exe
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\bin\Debug\Calculadora Evandro Orlandini.pdb
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora Evandro Orlandini.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora_Evandro_Orlandini.lblOperacao.resources
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora_Evandro_Orlandini.Properties.Resources.resources
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora Evandro Orlandini.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora Evandro Orlandini.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora Evandro Orlandini.exe
+C:\Users\Home\Desktop\DESENVOLVIMENTO DE SISTEMAS\ADS -UNIVALI\PROGRAMING AND DATA PERSISTENCE\Calculadora Evandro Orlandini\obj\Debug\Calculadora Evandro Orlandini.pdb
