@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora C# Windows Form
+Calculadora C# Windows Form - Exercício ADS
